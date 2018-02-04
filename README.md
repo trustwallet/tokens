@@ -1,4 +1,3 @@
-# tokens
 
 Directory of images for ERC20 contracts.
 
