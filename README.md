@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/TrustWallet/tokens/master/images/<contract_add
 ```
 Example:
 ```js
+https://trustwalletapp.com/images/tokens/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png
 https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png
 ```
 
