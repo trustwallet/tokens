@@ -11,6 +11,10 @@ Directory of token images for ERC20 contracts
 2) Upload an image in `images/` folder on your own fork and commit changes.
 3) Press on `New Pull Request` on your own fork page and submit it!
 
+### Youtube: Upload ERC20 Token Image to Trust Wallet:
+
+[![Upload ERC20 Token Image to Trust Wallet
+](https://img.youtube.com/vi/EFrJT_b11m4/0.jpg)](https://www.youtube.com/watch?v=EFrJT_b11m4)
 
 
 ## How to Use It? (For Developers)
