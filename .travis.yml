@@ -7,3 +7,7 @@ node_js:
 cache:
   directories:
     - "node_modules"
+
+script:
+  - npm test
+  - node ./scripts/verifyAddresses.js
