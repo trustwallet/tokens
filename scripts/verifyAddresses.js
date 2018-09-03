@@ -9,11 +9,11 @@ const mongoURL = process.env.MONGO_URI
 mongoose.connect(mongoURL, {useNewUrlParser: true})
 
 mongoose.connection.on('connected', function() {
-    logger.info('MongoDB event connected');
+    console.info('MongoDB event connected');
 })
 
 mongoose.connection.on('error', function(err) {
-    logger.error('MongoDB event error: ' + err);
+    console.error('MongoDB event error: ' + err);
 })
 
 const erc20 = new Schema({
