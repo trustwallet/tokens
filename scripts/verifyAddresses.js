@@ -6,7 +6,7 @@ const mongoose = require('mongoose')
 const Schema = mongoose.Schema
 const mongoURL = process.env.MONGO_URI
 
-mongoose.connect(mongoURL)
+mongoose.connect(mongoURL, {useNewUrlParser: true})
 
 const erc20 = new Schema({
     address: String,
