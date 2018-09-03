@@ -1,0 +1,26 @@
+{
+  "name": "tokens",
+  "version": "1.0.0",
+  "description": "Contract and coin addresses consumed by Trust Wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrustWallet/tokens.git"
+  },
+  "keywords": [
+    "ERC20",
+    "images"
+  ],
+  "author": "Trust Wallet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrustWallet/tokens/issues"
+  },
+  "homepage": "https://github.com/TrustWallet/tokens#readme",
+  "devDependencies": {
+    "mongoose": "^5.2.12"
+  }
+}
