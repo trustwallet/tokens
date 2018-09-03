@@ -1,12 +1,20 @@
 #!/usr/bin/env node
 
-const fs = require("fs")
+const fs = require('fs')
 const mongoose = require('mongoose')
 
 const Schema = mongoose.Schema
 const mongoURL = process.env.MONGO_URI
 
 mongoose.connect(mongoURL, {useNewUrlParser: true})
+
+mongoose.connection.on('connected', function() {
+    logger.info('MongoDB event connected');
+})
+
+mongoose.connection.on('error', function(err) {
+    logger.error('MongoDB event error: ' + err);
+})
 
 const erc20 = new Schema({
     address: String,
