@@ -9,4 +9,5 @@ cache:
     - "node_modules"
 
 script:
+  - npm test
   - node ./scripts/verifyAddresses.js
