@@ -9,4 +9,4 @@ cache:
     - "node_modules"
 
 script:
-  - chmod a+x ./scripts/verifyAddresses.sh
+  - node ./scripts/verifyAddresses.js
