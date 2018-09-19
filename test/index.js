@@ -27,7 +27,7 @@ imageFileNames.forEach(image => {
         exitWithMsg(`${address} image must be in lowercase`)
     }
 
-    if (!!OxExp.test(address) && !address.startsWith('ethereum')) {
+    if (!OxExp.test(address) && !address.startsWith('ethereum')) {
         exitWithMsg(`'${address}' must start with 0x`)
     }
 
