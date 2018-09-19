@@ -2,7 +2,7 @@ const fs = require('fs')
 
 const imgExp = /\.png$/
 const upperCaseExp = /[A-F]/
-const OxExp = /^(0x)/
+const OxExp = /^0x/
 const addressExp = /[0-9a-f]{40}$/i
 
 const exitWithMsg = (msg) => {
@@ -27,8 +27,8 @@ imageFileNames.forEach(image => {
         exitWithMsg(`${address} image must be in lowercase`)
     }
 
-    if (!OxExp.test(address) && !address.startsWith('ethereum')) {
-        exitWithMsg(`${address} must start with 0x`)
+    if (!!OxExp.test(address) && !address.startsWith('ethereum')) {
+        exitWithMsg(`'${address}' must start with 0x`)
     }
 
     if (!isAddress(address) && !address.startsWith('ethereum')) {
