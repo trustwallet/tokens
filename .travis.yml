@@ -9,3 +9,6 @@ cache:
 
 script:
   - npm test
+
+git:
+  depth: 5
