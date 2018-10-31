@@ -9,6 +9,7 @@ cache:
 
 script:
   - npm test
+  - node ./scripts/verifyAddresses.js
 
 git:
   depth: 5
