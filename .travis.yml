@@ -1,0 +1,15 @@
+language: node_js
+
+node_js:
+  - "lts/carbon"
+
+cache:
+  directories:
+    - "node_modules"
+
+script:
+  - npm test
+  # - node ./scripts/verifyAddresses.js
+
+git:
+  depth: 5

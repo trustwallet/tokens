@@ -30,3 +30,5 @@ https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x006bea43baa
 
 ## Used in Applications
 - [Trust Wallet](https://trustwalletapp.com) - iOS and Android 
+- [0x Tracker](https://0xtracker.com) - The 0x Protocol Trade Explorer and news aggregator.
+
