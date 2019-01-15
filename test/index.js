@@ -14,7 +14,7 @@ const isAddress = address => addressExp.test(address)
 
 const remoteExtension = string => string.replace(/.png/g, '')
 
-const imageFileNames = fs.readdirSync('./images')
+const imageFileNames = fs.readdirSync('./tokens')
 
 imageFileNames.forEach(image => {
     const address = remoteExtension(image)
