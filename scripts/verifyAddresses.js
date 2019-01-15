@@ -28,7 +28,7 @@ const erc20 = new Schema({
 
 const erc20Model = mongoose.model('erc20contracts', erc20)
 
-const files = fs.readdirSync('./images')
+const files = fs.readdirSync('./tokens')
 
 const images = files.filter(file => file.startsWith('0x')).map(file => file.replace('.png', '').toLowerCase())
 
