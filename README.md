@@ -25,8 +25,10 @@ https://raw.githubusercontent.com/TrustWallet/tokens/master/images/<contract_add
 Example:
 ```js
 https://trustwalletapp.com/images/tokens/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png
-https://raw.githubusercontent.com/TrustWallet/tokens/master/images/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png
+https://raw.githubusercontent.com/TrustWallet/tokens/master/tokens/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png
 ```
 
 ## Used in Applications
 - [Trust Wallet](https://trustwalletapp.com) - iOS and Android 
+- [0x Tracker](https://0xtracker.com) - The 0x Protocol Trade Explorer and news aggregator.
+
