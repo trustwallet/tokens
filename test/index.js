@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-const imgExp = /\.png$/
+const pngExp = /\.png$/
 const upperCaseExp = /[A-F]/
 const OxExp = /^0x/
 const addressExp = /[0-9a-f]{40}$/i
@@ -11,15 +11,15 @@ const exitWithMsg = (msg) => {
 }
 
 const isAddress = address => addressExp.test(address)
-
-const remoteExtension = string => string.replace(/.png/g, '')
+const isFilePng = name => pngExp.test(name)
+const remotePngExtension = string => string.replace(/.png/g, '')
 
 const imageFileNames = fs.readdirSync('./tokens')
 
 imageFileNames.forEach(image => {
-    const address = remoteExtension(image)
+    const address = remotePngExtension(image)
 
-    if (!imgExp.test(image)) {
+    if (!isFilePng(image)) {
         exitWithMsg(`${image} image must be png`)
     } 
     
@@ -35,5 +35,18 @@ imageFileNames.forEach(image => {
         exitWithMsg(`${address} image must have length 42 instead have ${address.length}`)
     }
 })
+
+// Checking root directory for not containing images
+const checkRootDirectory = () => {
+    fs.readdirSync(".").forEach(file => {
+        if(isFilePng(file)) {
+            exitWithMsg(`Move ${file} to ./tokens folder`)
+        }
+
+    })
+}
+checkRootDirectory()
+
+
 
 console.log(`Passed all tests`)
