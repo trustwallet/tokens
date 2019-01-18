@@ -1,20 +1,37 @@
+# Trust Wallet Token Images
+This repository (repo) provides token images for Trust Wallet mobile clients iOS and Android
+<center><img src='https://raw.githubusercontent.com/TrustWallet/tokens/master/tutorial/trust-wallet.png'></center>
+
 Directory of token images for ERC20 contracts
 
 # Add custom image:
 ## Requirements
-- name of the file in lowercase: `contract_address.png`. Ex: `0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png`
-- format: `PNG`
-- size: `256px by 256px`
+- format: `png`
+- name of the file in lowercase fromat: `contract_address.png`. Ex: `0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png`
+- size: minimum `256px by 256px`
+- background: preferably transparant
 
-## Steps
-1) Press on `Fork` in the top right corner.
-2) Upload an image in `images/` folder on your own fork and commit changes.
-3) Press on `New Pull Request` on your own fork page and submit it!
+## How To Add
+1) Press on `Fork` in the top right corner, wait for process to complite
+2) Navigate to `tokens` folder on your own fork.
+3) Press on `Upload File` in the top right corner.
+4) Choose file, make sure it follows requirments above
+5) Press on `Commitchanges`
+6) Press on `New pull request` on your own fork page and submit it by pressing on `Create pull request`!
+7) Add short description including name and token symbol in a header field
+8) Press on `Create pull request`
+9) Once tests complited and verifies your image follows requirments maintainer will merge it and in 5-10 minutes token became searchable in Trust Wallet
 
 ### Youtube: Upload ERC20 Token Image to Trust Wallet:
 
-[![Upload ERC20 Token Image to Trust Wallet
-](https://img.youtube.com/vi/EFrJT_b11m4/0.jpg)](https://www.youtube.com/watch?v=EFrJT_b11m4)
+<center>
+<video alignwidth="720" height="480" controls>
+  <source src="./tutorial/upload-token-image.mov" type="video/mp4">
+</video>
+</center>
+
+[![Upload ERC20 Token Image to Trust Wallet]
+(https://img.youtube.com/vi/EFrJT_b11m4/0.jpg)](https://www.youtube.com/watch?v=EFrJT_b11m4)
 
 
 ## How to Use It? (For Developers)
