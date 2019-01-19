@@ -1,4 +1,8 @@
+const axios = require("axios")
 const fs = require('fs')
+// const TRUST_API = `https://api.trustwallet.com/tokens/verification`
+const TRUST_API = `http://localhost:8003/tokens/verification`
+const TOKEN_VERIFICATION_KEY = process.env.TOKEN_VERIFICATION_KEY || "Hello"
 
 const pngExp = /\.png$/
 const upperCaseExp = /[A-F]/
@@ -14,13 +18,13 @@ const isAddress = address => addressExp.test(address)
 const isFilePng = name => pngExp.test(name)
 const remotePngExtension = string => string.replace(/.png/g, '')
 
-const imageFileNames = fs.readdirSync('./tokens')
+const tokens = fs.readdirSync('./tokens')
 
-imageFileNames.forEach(image => {
-    const address = remotePngExtension(image)
+tokens.forEach(token => {
+    const address = remotePngExtension(token)
 
-    if (!isFilePng(image)) {
-        exitWithMsg(`${image} image must be png`)
+    if (!isFilePng(token)) {
+        exitWithMsg(`${token} image must be png`)
     } 
     
     if (upperCaseExp.test(address)) {
@@ -36,7 +40,8 @@ imageFileNames.forEach(image => {
     }
 })
 
-// Checking root directory for not containing images
+console.log(`Passed all tests`)
+
 const checkRootDirectory = () => {
     fs.readdirSync(".").forEach(file => {
         if(isFilePng(file)) {
@@ -47,6 +52,23 @@ const checkRootDirectory = () => {
 }
 checkRootDirectory()
 
+const verifyTokens = () => {
+    const addresses = tokens.map(token => token.replace('.png', '').toLowerCase())
+    axios.post(TRUST_API, {tokens: addresses}, {
+        headers: {
+            TOKEN_VERIFICATION_KEY
+        },
+        timeout: 5000
+    })
+    .then(res => {
+        if (res.status !== 200) {
+            exitWithMsg(`Error verifying tokens`)
+        }
+        console.log(`Tokens were successfully verified`)
+    })
+    .catch(e => {
+        exitWithMsg(e.response.data.error)
+    })
+}
 
-
-console.log(`Passed all tests`)
+verifyTokens()
