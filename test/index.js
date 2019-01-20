@@ -1,6 +1,6 @@
 const axios = require("axios")
 const fs = require('fs')
-const TRUST_API = `http://localhost:8003/tokens/verification`
+const TRUST_API = `https://api.trustwallet.com/tokens/verification`
 const TOKEN_VERIFICATION_KEY = process.env.TOKEN_VERIFICATION_KEY
 
 const pngExp = /\.png$/
@@ -66,8 +66,7 @@ const verifyTokens = () => {
         console.log(`Tokens were successfully verified`, res.data)
     })
     .catch(e => {
-        console.log(e)
-        exitWithMsg(e.response.data.error)
+        exitWithMsg(`Failed to verify tokens ${e.message}`)
     })
 }
 
