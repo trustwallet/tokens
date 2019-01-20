@@ -23,5 +23,8 @@
   "homepage": "https://github.com/TrustWallet/tokens#readme",
   "devDependencies": {
     "mongoose": "^5.2.12"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
   }
 }
