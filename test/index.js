@@ -56,8 +56,7 @@ const verifyTokens = () => {
     axios.post(TRUST_API, {tokens: addresses}, {
         headers: {
             TOKEN_VERIFICATION_KEY
-        },
-        timeout: 5000
+        }
     })
     .then(res => {
         if (res.status !== 200) {
