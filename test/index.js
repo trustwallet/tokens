@@ -1,7 +1,4 @@
-const axios = require("axios")
 const fs = require('fs')
-const TRUST_API = `https://api.trustwallet.com/tokens/verification`
-const TOKEN_VERIFICATION_KEY = process.env.TOKEN_VERIFICATION_KEY
 
 const pngExp = /\.png$/
 const upperCaseExp = /[A-F]/
@@ -39,34 +36,14 @@ tokens.forEach(token => {
     }
 })
 
-console.log(`Passed all tests`)
-
 const checkRootDirectory = () => {
     fs.readdirSync(".").forEach(file => {
         if(isFilePng(file)) {
             exitWithMsg(`Move ${file} to ./tokens folder`)
         }
-
+        
     })
 }
 checkRootDirectory()
 
-const verifyTokens = () => {
-    const addresses = tokens.map(token => token.replace('.png', '').toLowerCase())
-    axios.post(TRUST_API, {tokens: addresses}, {
-        headers: {
-            TOKEN_VERIFICATION_KEY
-        }
-    })
-    .then(res => {
-        if (res.status !== 200) {
-            exitWithMsg(`Error verifying tokens`)
-        }
-        console.log(`Tokens were successfully verified`, res.data)
-    })
-    .catch(e => {
-        exitWithMsg(`Failed to verify tokens ${e.message}`)
-    })
-}
-
-verifyTokens()
+console.log(`Passed all tests`)
