@@ -27,7 +27,7 @@ tokens.forEach(token => {
         exitWithMsg(`${address} image must be in lowercase`)
     }
 
-    if (!OxExp.test(address) && !address.startsWith('ethereum')) {
+    if (!OxExp.test(address)) {
         exitWithMsg(`'${address}' must start with 0x`)
     }
 
