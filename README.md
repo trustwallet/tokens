@@ -30,9 +30,7 @@ Directory of token images for ERC20 contracts
 </video>
 </center>
 
-[![Upload ERC20 Token Image to Trust Wallet]
-(https://img.youtube.com/vi/EFrJT_b11m4/0.jpg)](https://www.youtube.com/watch?v=EFrJT_b11m4)
-
+[![Upload ERC20 Token Image to Trust Wallet](https://img.youtube.com/vi/EFrJT_b11m4/0.jpg)](https://www.youtube.com/watch?v=EFrJT_b11m4)
 
 ## How to Use It? (For Developers)
 Base URL:
