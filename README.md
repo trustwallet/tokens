@@ -35,7 +35,7 @@ Directory of token images for ERC20 contracts
 ## How to Use It? (For Developers)
 Base URL:
 ```js
-https://raw.githubusercontent.com/TrustWallet/tokens/master/images/<contract_address>.png
+https://raw.githubusercontent.com/TrustWallet/tokens/master/tokens/<contract_address>.png
 ```
 Example:
 ```js
