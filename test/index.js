@@ -31,7 +31,7 @@ tokens.forEach(token => {
         exitWithMsg(`'${address}' must start with 0x`)
     }
 
-    if (!isAddress(address) && !address.startsWith('ethereum')) {
+    if (!isAddress(address)) {
         exitWithMsg(`${address} image must have length 42 instead have ${address.length}`)
     }
 })
