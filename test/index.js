@@ -5,14 +5,14 @@ const upperCaseExp = /[A-F]/
 const OxExp = /^0x/
 const addressExp = /[0-9a-f]{40}$/i
 
-const exitWithMsg = (msg) => {
+const exitWithMsg = msg => {
     console.log(msg)
     process.exit(1)
 }
 
 const isAddress = address => addressExp.test(address)
 const isFilePng = name => pngExp.test(name)
-const remotePngExtension = string => string.replace(/.png/g, '')
+const remotePngExtension = string => string.replace(/.png$/, '')
 
 const tokens = fs.readdirSync('./tokens')
 
