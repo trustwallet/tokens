@@ -10,6 +10,7 @@ Directory of token images for ERC20 contracts
 - name of the file in lowercase fromat: `contract_address.png`. Ex: `0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png`
 - size: minimum `256px by 256px`
 - background: preferably transparant
+- compress with [ImageOptim](https://imageoptim.com/mac) / `pngcrush` or any other tools
 
 ## How To Add
 1) Press on `Fork` in the top right corner, wait for process to complite
