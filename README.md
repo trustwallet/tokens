@@ -6,11 +6,11 @@ Directory of token images for ERC20 contracts
 
 # Add custom image:
 ## Requirements
-- format: `png`
+- format: `png`. Format `PNG` considered not valid.
 - name of the file in lowercase fromat: `contract_address.png`. Ex: `0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png`
-- size: minimum `256px by 256px`
+- size: `256px by 256px`
 - background: preferably transparant
-- compress with [ImageOptim](https://imageoptim.com/mac) / `pngcrush` or any other tools
+- use simple drag and drop online servise [tinypng](https://tinypng.com/) to optimize image size
 
 ## How To Add
 1) Press on `Fork` in the top right corner, wait for process to complite
@@ -45,6 +45,6 @@ https://raw.githubusercontent.com/TrustWallet/tokens/master/tokens/0x006bea43baa
 ```
 
 ## Used in Applications
-- [Trust Wallet](https://trustwalletapp.com) - iOS and Android 
+- [Trust Wallet](https://trustwallet.com) - iOS and Android 
 - [0x Tracker](https://0xtracker.com) - The 0x Protocol Trade Explorer and news aggregator.
 
