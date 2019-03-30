@@ -21,7 +21,7 @@ Directory of token images for ERC20 contracts
 6) Press on `New pull request` on your own fork page and submit it by pressing on `Create pull request`!
 7) Add short description including name and token symbol in a header field
 8) Press on `Create pull request`
-9) Once tests complited and verifies your image follows requirments maintainer will merge it and in 5-10 minutes token became searchable in Trust Wallet
+9) Once tests complited and verifies your image follows requirments maintainer will merge it and in 5-10 minutes token became searchable and will have image insted of plain logo in Trust Wallet
 
 ### Youtube: Upload ERC20 Token Image to Trust Wallet:
 
@@ -32,6 +32,11 @@ Directory of token images for ERC20 contracts
 </center>
 
 [![Upload ERC20 Token Image to Trust Wallet](https://img.youtube.com/vi/EFrJT_b11m4/0.jpg)](https://www.youtube.com/watch?v=EFrJT_b11m4)
+
+
+## FAQ
+### Why do I still see old logo in Trust Wallet after uploaded new one  
+Both clients, Android and iOS keep old image cache for up to 7 days, in order to reflect changes immediately, reinstall Trust Wallet application. But as always, make sure you have backup to all your wallets.
 
 ## How to Use It? (For Developers)
 Base URL:
