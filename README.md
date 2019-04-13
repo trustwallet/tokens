@@ -5,12 +5,13 @@ This repository (repo) provides token images for Trust Wallet mobile clients iOS
 Directory of token images for ERC20 contracts
 
 # Add custom image:
-## Requirements
+## Image Requirements
 - format: `png`. Format `PNG` considered not valid.
 - name of the file in lowercase fromat: `contract_address.png`. Ex: `0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png`
 - size: `256px by 256px`
 - background: preferably transparant
 - use simple drag and drop online servise [tinypng](https://tinypng.com/) to optimize image size
+
 
 ## How To Add
 1) Press on `Fork` in the top right corner, wait for process to complite
