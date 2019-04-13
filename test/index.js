@@ -43,6 +43,10 @@ const checkRootDirectory = () => {
         }
         
     })
+
+    if(fs.existsSync("./images")) {
+        exitWithMsg(`Adding to ./image folder is restricted, please update your fork`)
+    }
 }
 checkRootDirectory()
 
