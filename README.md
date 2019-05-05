@@ -1,5 +1,6 @@
 # Trust Wallet Token Images
-This repository (repo) provides token images for Trust Wallet mobile clients iOS and Android
+
+This repository (repo) provides coin / token images for Trust Wallet mobile clients iOS and Android
 <center><img src='https://raw.githubusercontent.com/TrustWallet/tokens/master/tutorial/trust-wallet.png'></center>
 
 Directory of token images for ERC20 contracts
@@ -7,7 +8,9 @@ Directory of token images for ERC20 contracts
 # Add custom image:
 ## Image Requirements
 - format: `png`. Format `PNG` considered not valid.
-- name of the file in lowercase fromat: `contract_address.png`. Ex: `0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png`
+- name：name of the file in lowercase fromat
+- - For tokens: `contract_address.png`. Ex: `0xd26114cd6ee289accf82350c8d8487fedb8a0c07.png`
+- - For coins: `slip44.png`. Ex: Bitcoin is `0.png`
 - size: `256px by 256px`
 - background: preferably transparant
 - use simple drag and drop online servise [tinypng](https://tinypng.com/) to optimize image size
@@ -15,7 +18,7 @@ Directory of token images for ERC20 contracts
 
 ## How To Add
 1) Press on `Fork` in the top right corner, wait for process to complite
-2) Navigate to `tokens` folder on your own fork.
+2) Navigate to `tokens` (or `coins`, if you're adding a coin icon) folder on your own fork.
 3) Press on `Upload File` in the top right corner.
 4) Choose file, make sure it follows requirments above
 5) Press on `Commitchanges`
