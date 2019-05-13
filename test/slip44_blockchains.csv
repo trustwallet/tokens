@@ -1,0 +1,275 @@
+0,0x80000000,408fa195a34b533de9ad9889f076045e,BTC,BTC,Bitcoin,[Bitcoin](https://bitcoin.org/),bitcoin
+2,0x80000002,f94be61fd9f4fa684f992ddfd4e92272,LTC,LTC,Litecoin,[Litecoin](https://litecoin.org/),litecoin
+3,0x80000003,c04cc70179c97c5a00e50ea87069e20c,DOGE,DOGE,Dogecoin,[Dogecoin](https://github.com/dogecoin/dogecoin),dogecoin
+4,0x80000004,3ab2effb51c4eb31cb4810a22d07c746,RDD,RDD,ReddCoin,Reddcoin,reddcoin
+5,0x80000005,ef4fa4afac9037bf11f2986b13f42c84,DASH,DASH,Dash,[Dash](https://github.com/dashpay/dash)(exDarkcoin),dash
+6,0x80000006,31f194850c573ebc3b5cdb25897cdaeb,PPC,PPC,Peercoin,[Peercoin](https://peercoin.net/),peercoin
+7,0x80000007,25c0953290fc9f81e4fdc54f8ae7be07,NMC,NMC,Namecoin,[Namecoin](http://namecoin.info/),namecoin
+8,0x80000008,729026d30a63435f08271199d26afab3,FTC,FTC,Feathercoin,[Feathercoin](https://www.feathercoin.com/),feathercoin
+9,0x80000009,9cec6c50c269bf684c0ed917338c9b29,XCP,XCP,Counterparty,[Counterparty](http://counterparty.io/),counterparty
+10,0x8000000a,ba910e16bd88e926884b65906e09e0ed,BLK,BLK,BlackCoin,[Blackcoin](http://blackcoin.co/),blackcoin
+14,0x8000000e,94bce537b3f1682e7365c18a74db8df0,VIA,VIA,Viacoin,Viacoin,viacoin
+16,0x80000010,898fb0ff32d5955464436a79de6b4fbc,RBY,RBY,Rubycoin,Rubycoin,rubycoin
+17,0x80000011,d3349f0ec728c9871347ef08a5635b92,GRS,GRS,Groestlcoin,Groestlcoin,groestlcoin
+18,0x80000012,1b15831a7aed7af49492e65c10b84d85,DGC,DGC,Digitalcoin,Digitalcoin,digitalcoin
+20,0x80000014,6f02a483f8489fa2f5ead36b533658d4,DGB,DGB,DigiByte,DigiByte,digibyte
+22,0x80000016,3328a3658c8636806034f380c285889d,MONA,MONA,MonaCoin,Monacoin,monacoin
+23,0x80000017,32ea60f0383d4fc10517b3cac1b3f949,CLAM,CLAM,Clams,Clams,clams
+24,0x80000018,2ca99004f420a48ace3e4e506f7299e3,XPM,XPM,Primecoin,Primecoin,primecoin
+25,0x80000019,2f267152d45f7e342266d75ef4075d85,NEOS,NEOS,NeosCoin,Neoscoin,neoscoin
+28,0x8000001c,92187093e4a2379a353f6f177726105d,VTC,VTC,Vertcoin,Vertcoin,vertcoin
+29,0x8000001d,90602ad2ef23f407a0edec7eed36ca03,NXT,NXT,Nxt,NXT,nxt
+30,0x8000001e,82348eddebed5a85740a5179ae45bb34,BURST,BURST,Burst,Burst,burst
+31,0x8000001f,4857f12d88c9bff5b42ce6dc1bfd7fa2,MUE,MUE,MonetaryUnit,MonetaryUnit,monetaryunit
+36,0x80000024,23cc1239c53424b89ac1bfb7c0130a64,PKB,PKB,ParkByte,[ParkByte](https://github.com/parkbyte/),parkbyte
+37,0x80000025,342d3715db11766f7432bb15858874de,PND,PND,Pandacoin,Pandacoin,pandacoin
+38,0x80000026,699b095a8cf9209a6938d70f28bfa44e,START,START,Startcoin,StartCOIN,startcoin
+39,0x80000027,aac0e33ecd2ab2b61c22acb168698656,MOIN,MOIN,Moin,[MOIN](https://discovermoin.com),moin
+40,0x80000028,dffd82566b3593b731850be574b66bc2,EXP,EXP,Expanse,[Expanse](http://www.expanse.tech/),expanse
+41,0x80000029,657c77996431d4502186aa77aa1dcb42,EMC2,EMC2,Einsteinium,[Einsteinium](https://www.emc2.foundation/),einsteinium
+42,0x8000002a,18dc483a9417ad11606e80fc03f1ecfb,DCR,DCR,Decred,[Decred](https://decred.org/),decred
+43,0x8000002b,c064f7f6aaf128e13151617894b01658,XEM,XEM,NEM,[NEM](https://github.com/NemProject),nem
+44,0x8000002c,c4fafdee8dcbdec743db9571ca1456a6,PART,PART,Particl,[Particl](https://particl.io/),particl
+45,0x8000002d,779643b8316cd0fe905c63e2dfa3ed96,ARG,ARG,Argentum,[Argentum](http://www.argentum.io),argentum
+49,0x80000031,763dd8a6519d4a44a63777fd6ab8b50d,GCR,GCR,Global Currency Reserve,GlobalCurrencyReserve(GCRcoin),global currency reserve
+50,0x80000032,e7667bb0bbb4dd233f0fc6544a7a2d72,NVC,NVC,Novacoin,[Novacoin](https://github.com/novacoin-project/novacoin),novacoin
+53,0x80000035,bebd16a0885fa5d9ad6dc283df63e718,DOPE,DOPE,DopeCoin,[Dopecoin](https://github.com/dopecoin-dev/DopeCoinV3),dopecoin
+55,0x80000037,29f8ec4e0147254db36dad51e7fe18fa,AIB,AIB,Advanced Internet Blocks,[AIB](https://github.com/iobond/aib),advanced internet blocks
+56,0x80000038,d90953d59cb98805340cd7eae9d04320,EDRC,EDRC,EDRCoin,[EDRCoin](https://github.com/EDRCoin/EDRcoin-src),edrcoin
+57,0x80000039,b9f96bc11aa120359cf088244e7e3ff3,SYS,SYS,Syscoin,[Syscoin](https://github.com/syscoin/syscoin2),syscoin
+58,0x8000003a,faea9044ab1bd03496a71215694c56e2,SLR,SLR,SolarCoin,[Solarcoin](https://github.com/onsightit/solarcoin),solarcoin
+59,0x8000003b,d78bc75816eeb0a907f2cea71575f8f6,SMLY,SMLY,SmileyCoin,[Smileycoin](https://github.com/tutor-web/smileyCoin),smileycoin
+60,0x8000003c,1c9c969065fcd1cf,ETH,ETH,Ethereum,[Ether](https://ethereum.org/ether),ethereum-mainnet
+61,0x8000003d,3e03ef964cd34f5498065625765f50fe,ETC,ETC,Ethereum Classic,[EtherClassic](https://ethereumclassic.github.io),ethereum classic
+65,0x80000041,bf49658cede47f219c9c224f474a91db,XBC,XBC,Bitcoin Plus,[Bitcoinplus](https://bitcoinplus.org),bitcoin plus
+66,0x80000042,0a379d46c78e616b4d51bfaa86ac8850,IOP,IOP,Internet of People,[InternetofPeople](http://www.fermat.org),internet of people
+67,0x80000043,23dc662a2b34ec757b2910e4522db65e,NXS,NXS,Nexus,[Nexus](http://www.nexusearth.com/),nexus
+68,0x80000044,e014912203057d76c3e08e7b6423ecce,INSN,INSN,InsaneCoin,[InsaneCoin](http://insanecoin.com),insanecoin
+69,0x80000045,de9eca03f3983bf5cc13d92dcba11c75,OK,OK,OKCash,[OKCash](https://github.com/okcashpro/),okcash
+70,0x80000046,a809e232cc775b4a6e1d5945e9b82452,BRIT,BRIT,BritCoin,[BritCoin](https://britcoin.com),britcoin
+72,0x80000048,ab443e93277c6897556f10a27c0c09de,CRW,CRW,Crown,[Crown](http://crown.tech/),crown
+74,0x8000004a,79045d59f4a4d8b74e90c87c08c05ed0,ICX,ICX,ICON,[ICON](https://icon.foundation/),icon
+75,0x8000004b,7d06ad15dccb917facd9da8d362850d7,FJC,FJC,FujiCoin,[FujiCoin](http://www.fujicoin.org/),fujicoin
+77,0x8000004d,409b51cafffbbd5ae5d6eccfe39e3832,XVG,XVG,Verge,[Verge](https://github.com/vergecurrency/verge/),verge
+78,0x8000004e,fed8b29d717c75fa36b52dd529978d83,EFL,EFL,e-Gulden,[ElectronicGulden](https://egulden.org/),e-gulden
+79,0x8000004f,35c5d9e88066778dc13e77558bccc07c,CLUB,CLUB,ClubCoin,[ClubCoin](https://clubcoin.co/),clubcoin
+81,0x80000051,1215f81b042b8943da078c8dd4dd25e5,POT,POT,PotCoin,[Potcoin](http://potcoin.com/),potcoin
+82,0x80000052,1d7a00d3c8ca3f0c0bc9b7eb6d2abf04,QRK,QRK,Quark,Quarkcoin,quark
+83,0x80000053,57494827ff381c6ea0fc683886fb84ab,TRC,TRC,Terracoin,[Terracoin](https://terracoin.io/),terracoin
+84,0x80000054,1693cdae3b8b2e4beddec2865c367f22,GRC,GRC,GridCoin,Gridcoin,gridcoin
+85,0x80000055,35e3d18cab0fba4b095b20566904acac,AUR,AUR,Auroracoin,[Auroracoin](http://auroracoin.is/),auroracoin
+86,0x80000056,72a81484ce120f471da2b6a622814349,IXC,IXC,Ixcoin,IXCoin,ixcoin
+87,0x80000057,a17d76c7a7dc50c7c5621b2483bb52aa,NLG,NLG,Gulden,[Gulden](https://Gulden.com/),gulden
+88,0x80000058,0e9634d4833b0bf61eeafbb18b8e38ff,BITB,BITB,Bean Cash,[BitBean](http://bitbean.org/),bean cash
+89,0x80000059,ab48e15129609aed3caa7a2f7bba678d,BTA,BTA,Bata,[Bata](http://bata.io/),bata
+90,0x8000005a,d6655c39664e7b1eaa5e711c045572ea,XMY,XMY,Myriad,[Myriadcoin](http://myriadcoin.org),myriad
+91,0x8000005b,2f7cb6d22c07a8502f5b4b743e8514c5,BSD,BSD,BitSend,[BitSend](http://bitsend.info),bitsend
+92,0x8000005c,ee46c07521f1b0c7cd0d9259ceed7fee,UNO,UNO,Unobtanium,[Unobtanium](http://http://unobtanium.uno/),unobtanium
+94,0x8000005e,9edaed00498e0f10cde77906cf1de4c2,GB,GB,GoldBlocks,[GoldBlocks](https://github.com/goldblockscoin/goldblocks),goldblocks
+100,0x80000064,99e154fb214c70352b3ac064de14bc15,BIGUP,BIGUP,BigUp,[BigUp](https://github.com/BigUps/),bigup
+101,0x80000065,a3f49d17a7f71b5d3cec745a8c89256e,GAME,GAME,GameCredits,[GameCredits](https://github.com/gamecredits-project),gamecredits
+102,0x80000066,080a05f1e96874da09057ac98a9a5a7a,DLC,DLC,Dollarcoin,[Dollarcoins](https://github.com/dollarcoins/source),dollarcoin
+103,0x80000067,42135f0c76d67e32d48cb49cfed40fb6,ZYD,ZYD,Zayedcoin,[Zayedcoin](https://github.com/ZayedCoin/Zayedcoin),zayedcoin
+105,0x80000069,710d7edd4a8e32b150c78f0ea1cb9b64,STRAT,STRAT,Stratis,[Stratis](http://www.stratisplatform.com),stratis
+108,0x8000006c,20b5a1253a9ce6ea7a244283e6781015,UBQ,UBQ,Ubiq,[Ubiq](https://github.com/Ubiq),ubiq
+109,0x8000006d,7f067fa36b2547d96555661ba97de1e5,PTC,PTC,Pesetacoin,[Pesetacoin](http://pesetacoin.info/),pesetacoin
+110,0x8000006e,4a054d8bea82782feeb33b8ebcbf3874,NRO,NRO,Neuro,[Neurocoin](https://neurocoin.org),neuro
+111,0x8000006f,4fb61e3592e58e31e6a3521031b0bfe6,ARK,ARK,Ark,[ARK](https://ark.io),ark
+112,0x80000070,1d2e1a87f1f1951645b546f166fb6da4,USC,USC,Ultimate Secure Cash,[UltimateSecureCashMain](http://ultimatesecurecash.info),ultimate secure cash
+113,0x80000071,8408f7f0eab01e03e6e14e29b8908833,THC,THC,HempCoin,[Hempcoin](http://hempcoin.org),hempcoin
+114,0x80000072,f03b1b656dc12b342ac76703285f933b,LINX,LINX,Linx,[Linx](https://mylinx.io),linx
+117,0x80000075,d818ed5fae168de8c8842d24d52cfbb9,PINK,PINK,PinkCoin,[Pinkcoin](http://getstarted.with.pink),pinkcoin
+118,0x80000076,259241b67a10d21f71b067f9f48a3fdb,ATOM,ATOM,Atomic Coin,[Atom](https://cosmos.network),atomic coin
+119,0x80000077,0264ebb48dbfe7805da4453297230e3e,PIVX,PIVX,PIVX,[Pivx](https://github.com/PIVX-Project/PIVX),pivx
+120,0x80000078,7de30c4d641df028ee0a44eec3f6d551,FLASH,FLASH,Flash,[Flashcoin](https://flashcoin.io),flash
+121,0x80000079,f261193a0f4b5278a631a3f3ff9004d1,ZEN,ZEN,Horizen,[Zencash](https://zensystem.io),horizen
+122,0x8000007a,20fba39864a2b17fe64a177de2554298,PUT,PUT,PutinCoin,[Putincoin](https://putincoin.info),putincoin
+123,0x8000007b,0840b8cfc68a4aca290ae693d36073e7,ZNY,ZNY,Bitzeny,[BitZeny](https://bitzeny.tech/),bitzeny
+124,0x8000007c,08b698ad89b40c1aab2e9f38b418719e,UNIFY,UNIFY,Unify,[Unify](http://unifycryptocurrency.com),unify
+125,0x8000007d,eb9bdfb3ecf06660e6b60362b5d6c4eb,XST,XST,Stealth,[StealthCoin](http://www.stealthcoin.com),stealth
+128,0x80000080,3bc20191a9e3667ae6f31c6b66a5d6ef,XMR,XMR,Monero,[Monero](https://getmonero.org/),monero
+130,0x80000082,cf6950a9d578c0085968e40cbbc03387,NAV,NAV,NavCoin,[NavCoin](https://github.com/navcoindev/navcoin2),navcoin
+131,0x80000083,255d4d3880290713780cdc87a8c245a4,FCT,FCT,Factom,[FactomFactoids](https://github.com/FactomProject/FactomDocs/blob/master/wallet_info/wallet_test_vectors.md),factom
+133,0x80000085,b7d4f994f33c709be4ce6cbae31d7b8e,ZEC,ZEC,Zcash,[Zcash](https://z.cash),zcash
+134,0x80000086,c272c845303321963ba3fcce574d0328,LSK,LSK,Lisk,[Lisk](https://lisk.io/),lisk
+135,0x80000087,56bc626adf9b11af6fcf15a20a837c91,STEEM,STEEM,Steem,[Steem](http://steem.io),steem
+136,0x80000088,7231c79e2232dd9c5d59d1af5da3af80,XZC,XZC,Zcoin,[ZCoin](https://zcoin.io),zcoin
+137,0x80000089,3d8f12cd3d8f27da4b4dd04c289b8f1f,RBTC,RBTC,RSK Smart Bitcoin,[RSK](http://www.rsk.co/),rsk-smart-bitcoin
+140,0x8000008c,ac98e156072e3f425ea7fe8a84de2095,LBC,LBC,LBRY Credits,[LBRYCredits](https://lbry.io/),lbry credits
+141,0x8000008d,97b764b88a378468bac3dd389e4298ce,KMD,KMD,Komodo,[Komodo](https://komodoplatform.com/),komodo
+144,0x80000090,2b8a5d8975e8c2a2ed92450450979a3c,XRP,XRP,XRP,[Ripple](https://ripple.com),xrp
+145,0x80000091,43b45e71cc0615b491cb699e7071fc06,BCH,BCH,Bitcoin Cash,[BitcoinCash](https://www.bitcoincash.org),bitcoin cash
+146,0x80000092,9bb7c8f28629b6bb1ebdb49ee72aef38,NEBL,NEBL,Neblio,[Neblio](https://nebl.io),neblio
+147,0x80000093,075fdb76dff0024a3d130716ab58f74e,ZCL,ZCL,ZClassic,[ZClassic](http://zclassic.org/),zclassic
+148,0x80000094,e970cb6feb0965882460b6675745ef7c,XLM,XLM,Stellar,[StellarLumens](https://www.stellar.org/),stellar
+149,0x80000095,fad4771456ca13a0490aa6dcaed43022,NLC2,NLC2,NoLimitCoin,[NoLimitCoin2](http://www.nolimitcoin.org),nolimitcoin
+152,0x80000098,7e7437e23bda41633790f5694cc832fe,DMD,DMD,Diamond,[Diamond](http://bit.diamonds),diamond
+153,0x80000099,2876473c6baf4d0cf2f7d0475ab5cbe2,BTM,BTM,Bytom,[Bytom](https://bytom.io),bytom
+154,0x8000009a,f3e7ff82766b08fdc831356644b39882,BIO,BIO,BioCoin,[Biocoin](https://biocoin.bio),biocoin
+155,0x8000009b,4491fcbd84f12b02fb0ba47562d96280,XWC,XWC,WhiteCoin,[Whitecoin](https://www.whitecoin.info),whitecoin
+156,0x8000009c,9e9193e3b0b5e8c58f5a916473acc5d8,BTG,BTG,Bitcoin Gold,[BitcoinGold](http://www.btcgpu.org),bitcoin gold
+159,0x8000009f,71245ba4f7faee1b6010be75e45b7050,TOA,TOA,ToaCoin,[TOACoin](http://www.toacoin.com),toacoin
+160,0x800000a0,175f8296c921c2b5aebf2c23f12c1485,BTX,BTX,Bitcore,[Bitcore](https://bitcore.cc),bitcore
+161,0x800000a1,515853b66a60cd7ed9b033f5b7af31fc,ACC,ACC,AdCoin,[Adcoin](https://www.getadcoin.com/),adcoin
+162,0x800000a2,f27451ef3e4d484fe30d201d96acb2c9,BCO,BCO,BridgeCoin,[Bridgecoin](https://bridgecoin.org/),bridgecoin
+163,0x800000a3,21d5418a88201da5fc5ce3a30ff2dfad,ELLA,ELLA,Ellaism,[Ellaism](https://ellaism.org),ellaism
+164,0x800000a4,5f931dbd4b0dd9613e7cdd12f6a7240b,PIRL,PIRL,Pirl,[Pirl](https://pirl.io),pirl
+166,0x800000a6,44b5804869dce1dcc83502c79342efee,VIVO,VIVO,VIVO,[Vivo](https://www.vivocrypto.com/),vivo
+167,0x800000a7,000b23a7ed2f3dd2ced67bb3325530ba,FRST,FRST,FirstCoin,[Firstcoin](http://firstcoinproject.com),firstcoin
+168,0x800000a8,51539692f7b7a88c9f5ce06b74176d7f,HNC,HNC,Helleniccoin,[Helleniccoin](http://www.helleniccoin.gr/),helleniccoin
+169,0x800000a9,810a4fa6ab6e0b5de4c38252777e522c,BUZZ,BUZZ,BuzzCoin,[BUZZ](http://www.buzzcoin.info/),buzzcoin
+172,0x800000ac,e1b7509bb8bd63c09f0cc45192919e6d,HTML,HTML,HTMLCOIN,[HTMLCOIN](https://htmlcoin.com/),htmlcoin
+173,0x800000ad,c203b79bfb7b0daab580a389f34b8820,ODN,ODN,Obsidian,[Obsidian](https://obsidianplatform.com/),obsidian
+174,0x800000ae,105930bf05bc5b1350f10f5072e4ec88,ONX,ONX,Onix,[OnixCoin](https://www.onixcoin.com/),onix
+175,0x800000af,7af2f9b6d97cf2da111d5a319d9e001b,RVN,RVN,Ravencoin,[Ravencoin](https://ravencoin.org/),ravencoin
+176,0x800000b0,09edf87ea11727b09f88aa6ad221c112,GBX,GBX,GoByte,[GoByte](https://gobyte.network),gobyte
+177,0x800000b1,4aaac690b8c1bcec2b9fe66600b375e9,BTCZ,BTCZ,BitcoinZ,[BitcoinZ](https://btcz.rocks/en/),bitcoinz
+178,0x800000b2,60652c3518ab6a6c32ea3138b008e6be,POA,POA,POA Network,[Poa](https://poa.network),poa network
+179,0x800000b3,e67e085aeafbe0b1856a4b2ef25b0fda,NYC,NYC,NewYorkCoin,[NewYorkCoin](http://nycoin.net),newyorkcoin
+180,0x800000b4,ec012e662c1e6710d8192d1d0129978f,MXT,MXT,MarteXcoin,[MarteXcoin](http://martexcoin.org),martexcoin
+181,0x800000b5,f7bbfa620c94397f04ad49bdc61ac0f8,WC,WC,WINCOIN,[Wincoin](https://wincoin.co),wincoin
+182,0x800000b6,95966e6eb8c0760aad7dcd713124709c,MNX,MNX,MinexCoin,[Minexcoin](https://minexcoin.com),minexcoin
+183,0x800000b7,49d451b90fd7adc5aeae6f54bd8f876e,BTCP,BTCP,Bitcoin Private,[BitcoinPrivate](https://btcprivate.org),bitcoin private
+184,0x800000b8,3e93cbba1a8089449f8d30f90b8919d7,MUSIC,MUSIC,Musicoin,[Musicoin](https://www.musicoin.org),musicoin
+185,0x800000b9,13befc112fef09d5e57ccb66560783c5,BCA,BCA,Bitcoin Atom,[BitcoinAtom](https://bitcoinatom.io),bitcoin atom
+186,0x800000ba,da9332279b771a204f9a70410c76e3e4,CRAVE,CRAVE,Crave,[Crave](https://craveproject.net),crave
+187,0x800000bb,51ee1735fc201bc97cc381b1fcf420c1,STAK,STAK,STRAKS,[STRAKS](https://straks.io),straks
+190,0x800000be,1aefe821bc0565a5b2630fc60a6a3f3b,EXCL,EXCL,ExclusiveCoin,[ExclusiveCoin](https://exclusivecoin.pw/),exclusivecoin
+192,0x800000c0,f159fdcfaf52c43c240157716c1c8ee2,LCC,LCC,Litecoin Cash,[LitecoinCash](https://litecoinca.sh),litecoin cash
+194,0x800000c2,b65f6363a06dea1f3e075660d9ea27c1,EOS,EOS,EOS,[EOS](https://eos.io),eos
+195,0x800000c3,b6b5ddaae7eb17bc3c363f948231dec3,TRX,TRX,TRON,[Tron](https://tron.network/enindex.html),tron
+196,0x800000c4,2977ae321b1f168b131a7c5ccfa84934,KOBO,KOBO,Kobocoin,[Kobocoin](https://kobocoin.com),kobocoin
+197,0x800000c5,ed806ee1257cf1d7c7233f12a8e2137b,HUSH,HUSH,Hush,[HUSH](https://myhush.org),hush
+200,0x800000c8,8ccb0eb9e72f449e0ed46c2acbc25ea0,OMNI,OMNI,Omni,[Omni](http://www.omnilayer.org),omni
+201,0x800000c9,0e9f4e5a572be4d0378b60a40214b0d4,BIFI,BIFI,Bitcoin File,[BitcoinFile](https://www.bitcoinfile.org),bitcoin file
+202,0x800000ca,d78655133c255f8a6cec328b7eabca5f,UFO,UFO,Uniform Fiscal Object,[UniformFiscalObject](https://ufobject.com),uniform fiscal object
+204,0x800000cc,8f1175a097dc1b82c1ca378106e97283,BCN,BCN,Bytecoin,[Bytecoin](http://bytecoin.org),bytecoin
+212,0x800000d4,05396ce713942bb6264f1c2068b288b6,OOT,OOT,Utrum,[Utrum](https://utrum.io/ootcoin/),utrum
+213,0x800000d5,f9d9cad97e00db61787e73f0b781ec00,XSPEC,XSPEC,Spectrecoin,[Spectrecoin](https://spectreproject.io/),spectrecoin
+214,0x800000d5,287236fd42af0c529df3edb6daa18de5,MONK,MONK,Monkey Project,[MonkeyProject](https://www.monkey.vision),monkey project
+216,0x800000d8,77710c956e793275ee537b0998ae247e,FLO,FLO,FLO,[Flo](https://www.flo.cash/),flo
+217,0x800000d9,655da02b940a68dc795db6002984c364,MEC,MEC,Megacoin,[Megacoin](https://www.megacoin.eu),megacoin
+218,0x800000da,ce9b7e2750bbe2fcfaea747749f8bd08,BTDX,BTDX,Bitcloud,[BitCloud](https://bit-cloud.info),bitcloud
+220,0x800000dc,a5f6979ed762e36f9da841e1d642f480,ANON,ANON,ANON,[ANON](https://www.anonfork.io/),anon
+222,0x800000de,66c97856ba08e5a1894ada5849ad118f,BITG,BITG,BitGreen,[BitcoinGreen](https://savebitcoin.io),bitgreen
+224,0x800000e0,0d33b2c4878f4cd0b5d192c2687e5183,SMART,SMART,SmartCash,[Smartcash](https://smartcash.cc),smartcash
+225,0x800000e1,ca5601e39191ed567938b889545a459b,XUEZ,XUEZ,Xuez,[XUEZ](https://xuezcoin.com),xuez
+226,0x800000e2,4cc71c0576e1de650a0a1c3f986d1061,HLM,HLM,Helium,[Helium](https://www.heliumlabs.org/),helium
+227,0x800000e3,bb76a161ebe4b0e2feb09d92a89066d1,WEB,WEB,Webchain,[Webchain](https://webchain.network/),webchain
+228,0x800000e4,7638af1175902594809a60198e798838,ACM,ACM,Actinium,[Actinium](https://actinium.org),actinium
+231,0x800000e7,816cd6f0f180cea1ece8075b1cc33b34,HTH,HTH,Help The Homeless Coin,[HelpTheHomelessCoin](https://hthcoin.world),help the homeless coin
+232,0x800000e8,e9ca839570dc5867d4353df91749ccf3,TZC,TZC,TrezarCoin,[Trezarcoin](https://trezarcoin.com),trezarcoin
+236,0x800000ec,a818635d36dbe125e26167c4438e2217,BSV,BSV,Bitcoin SV,[BitcoinSV](https://bitcoinsv.io),bitcoin sv
+237,0x800000ed,0aa6a5c17a9d19d38734066eb06d53c6,DXN,DXN,DEXON,[DEXON](https://dexon.org/),dexon
+238,0x800000ee,3af43aaa92978a93ff29f8ac60205aad,QRL,QRL,Quantum Resistant Ledger,[QuantumResistantLedger](https://www.theqrl.org/),quantum resistant ledger
+240,0x800000f0,7c6532898ddea386a9e6c8eaa8f2b188,LOKI,LOKI,Loki,[Loki](https://github.com/loki-project/loki),loki
+242,0x800000f2,30f071de0409841846ca8e90b1fa6c7a,NIM,NIM,Nimiq,[Nimiq](https://nimiq.com/),nimiq
+249,0x800000f9,8dee982fd2b859b2ad000e760e62d211,ECA,ECA,Electra,[Electra](https://www.electraproject.org),electra
+256,0x80000100,e0ad962278d2db9d8da8cc73581243e4,NANO,NANO,Nano,[BitcoinNano](https://www.btcnano.org),nano
+265,0x80000109,367f2e5d2bdf0f6fd5f5314f3181b897,TPAY,TPAY,TokenPay,[TokenPay](https://tokenpay.com),tokenpay
+269,0x8000010d,5daa07f74a92f2f63dcfdf7d2e39d375,HPB,HPB,High Performance Blockchain,[HPB](https://hpb.io),high performance blockchain
+272,0x80000110,6d319b31260833b64c1867fcecfceef2,IPC,IPC,IPChain,[IPChain](https://www.ipcchain.org),ipchain
+277,0x80000115,1dc280767ace5edb9e9dc13cae7fff43,AREPA,AREPA,Arepacoin,[Arepacoin](https://arepacoinve.info),arepacoin
+278,0x80000116,0bfc12ae2a5fececad0413225bc99cd6,BOLI,BOLI,Bolivarcoin,[Bolivarcoin](https://bolis.info),bolivarcoin
+284,0x8000011c,6adb9905e10813e7deba70a0ab154fc6,BZX,BZX,Bitcoin Zero,[Bitcoinzero](https://bitcoinzerox.net),bitcoin zero
+285,0x8000011d,57401ebeb1f989d64faaf1350fb5b47f,GXX,GXX,GravityCoin,[GravityCoin](https://www.gravitycoin.io/),gravitycoin
+286,0x8000011e,1885359d8a1794b3480fb5f80fa7b73d,HEAT,HEAT,HEAT,[HEAT](https://heatledger.com/),heat
+287,0x8000011f,b6c3eb5680c3c8edc3fab3c7c83be7cc,XDN,XDN,DigitalNote,[DigitalNote](https://digitalnote.biz),digitalnote
+289,0x80000121,2cfb5c13f7fcd22972a10979c248f941,CPC,CPC,Capricoin,[Capricoin](https://capricoin.org),capricoin
+295,0x80000127,80413ff2fff0ee90ae7290554c3e4ada,IOC,IOC,I/O Coin,[Iocoin](https://iocoin.io),i/o coin
+298,0x8000012a,85817d8d42ea49f3873de03b46c8ffd3,FAIR,FAIR,FairCoin,[FairCoin](https://faircoin.world/),faircoin
+299,0x8000012b,5d2385bb51e371025d508b2c84d605d6,NUKO,NUKO,Nekonium,[Nekonium](https://nekonium.github.io/),nekonium
+301,0x8000012d,d513a8cc97e39471d71af420a403756e,DIVI,DIVI,Divi,[DiviProject](https://diviproject.org),divi
+302,0x8000012e,7f630d618dcb027bbd89f5a46e953886,CMT,CMT,CyberMiles,[Community](https://thecriptocommunity.com),cybermiles
+303,0x8000012f,1a6ce8a9f0771820edb404f898934dab,EUNO,EUNO,EUNO,[EUNO](https://euno.co/),euno
+305,0x80000131,44e95055204affa06c36892f84f56604,ONION,ONION,DeepOnion,[DeepOnion](https://deeponion.org),deeponion
+308,0x80000134,b0185b4ec698ba815598c900733dc6b6,BTS,BTS,BitShares,[Bitshares](https://bitshares.org/),bitshares
+311,0x80000137,816013729a0f3449bed93cd70db88c00,ADS,ADS,Adshares,[Adshares](https://adshares.net/),adshares
+314,0x8000013a,66df69706f1af8699785fa1242f95f80,MOAC,MOAC,MOAC,[MOAC](https://moac.io/),moac
+315,0x8000013b,51e084d331ab41b5c0d8484479ec4980,SWTC,SWTC,Jingtum Tech,[SWTC](http://swtc.top/),jingtum tech
+320,0x80000140,770ed2081d2be9ab4edae4d577e91a65,RPD,RPD,Rapids,[Rapids](https://www.rapidsnetwork.io/),rapids
+328,0x80000148,0ebdac911f50a63ad974d4dfe15dc844,BLOCK,BLOCK,Blocknet,[Blocknet](https://blocknet.co/),blocknet
+330,0x8000014a,9ecc0423dd145656267f85bf3c5e920b,LUNA,LUNA,Luna Coin,[Terra](https://terra.money),luna coin
+360,0x80000168,eeef5613cce4f27f30fab162a10da11f,VSYS,VSYS,V Systems,[VSystems](https://www.v.systems/),v systems
+369,0x80000171,be1a74795e72f693467cf126c2aafbc7,XAS,XAS,Asch,[Asch](https://asch.io),asch
+384,0x80000180,146217aae652b08146091d8676685e66,XSN,XSN,Stakenet,[Stakenet](https://xsncoin.io/),stakenet
+398,0x8000018e,b32fb0710c4a647c6959df9f1141c13e,XPC,XPC,eXPerience Chain,[XPChain](https://www.xpchain.io/),experience chain
+400,0x80000190,af7c948f9772dc76154a5d8ca256591e,NIX,NIX,NIX,[NIX](https://nixplatform.io),nix
+404,0x80000194,5719072541d7765b1103a1eaa02b18f4,XBI,XBI,Bitcoin Incognito,[XBI](https://bitcoinincognito.org),bitcoin incognito
+425,0x800001a9,1a2893ee662b40a8d2d2311ead84307c,AION,AION,Aion,[Aion](https://aion.network),aion
+444,0x800001bc,d43a7e48474aeca3af8bf45145545f95,PHR,PHR,Phore,[Phore](https://phore.io),phore
+447,0x800001bf,0abc4dca3444ded48bec815af73070f3,DIN,DIN,Dinero,[Dinero](https://dinerocoin.org/),dinero
+457,0x800001c9,80f6157d6dfd64ef020b78a26f4884d9,AE,AE,Aeternity,[æternity](https://aeternity.com),aeternity
+464,0x800001d0,b67775c141517d094f9c13f75e2f657d,ETI,ETI,EtherInc,[EtherInc](https://einc.io),etherinc
+488,0x800001e8,5d29a6e7b3bea437594753fcdbb8aad5,VEO,VEO,Amoveo,[Amoveo](https://github.com/zack-bitcoin/amoveo/),amoveo
+500,0x800001f4,9fdf8314613ed72409bed6ea8fdf4df8,THETA,THETA,THETA,[Theta](https://www.thetatoken.org/),theta
+526,0x8000020e,294eb9574dcd74e87b6b9ea37a180835,BU,BU,BUMO,[BUMO](https://www.bumo.io/),bumo
+533,0x80000215,7b3aa91acc4771ba02f6f328c44ee308,PRJ,PRJ,Project Coin,[ProjectCoin](https://projectcoin.net/),project coin
+561,0x80000231,361b3a31492585c31c53741356008255,NTY,NTY,Nexty,[Nexty](https://nexty.io/),nexty
+666,0x8000029a,0805f741c553e4c69e2fb610af9ede36,ACT,ACT,Achain,[Achain](https://www.achain.com/),achain
+668,0x8000029c,cb7ba170185c41f9310b7ecae45e97d3,SSC,SSC,SelfSell,[SelfSell](https://www.selfsell.com/),selfsell
+698,0x800002ba,52e63f63a30ccee426a1be3fdf70bd0d,VEIL,VEIL,Veil,[Veil](https://www.veil-project.com),veil
+777,0x80000309,f365295c670c5d7a7642e402918c9e2f,BTW,BTW,BitWhite,[BitcoinWorld](http://btw.one),bitwhite
+800,0x80000320,f13ad2abb4e5dc7f4d88c5d131bf814d,BEET,BEET,Beetle Coin,[BeetleCoin](https://beetlecoin.io/),beetle coin
+818,0x80000332,2715f0de3e1ea8200dea0c51b4295ae9,VET,VET,VeChain,[VeChainToken](https://vechain.com/),vechain
+820,0x80000334,d726f3aa9e05798f8d12bd90f86e043c,CLO,CLO,Callisto Network,[Callisto](http://callisto.network/),callisto network
+888,0x80000378,9ac756871cd8cc8f7ebb47953f48d218,NEO,NEO,NEO,[NEO](https://neo.org/),neo
+889,0x80000379,7d50a293fb45436a5bb6a9854bca598a,TOMO,TOMO,TomoChain,[TOMO](https://tomochain.com/),tomochain
+916,0x80000394,291eaf1e4793aaa16bea1d8c31866290,META,META,Metadium,[Metadium](https://www.metadium.com/),metadium
+970,0x800003ca,5c48bc7a40a9a057d36130bff38b858d,TWINS,TWINS,win.win,[TWINS](https://win.win/),win.win
+998,0x800003e6,3ad7c84709eb435a0a28fd6ebff131c3,LBTC,LBTC,Lightning Bitcoin,[LightningBitcoin](http://lbtc.io/),lightning bitcoin
+999,0x800003e7,1c6c1114ffdf3ffb9bf29b27e6ea122a,BCD,BCD,Bitcoin Diamond,[BitcoinDiamond](http://btcd.io/),bitcoin diamond
+1000,0x800003e8,d7a22da399ecba6ad195a5c1795b44d6,BTN,BTN,BitNewChain,[BitcoinNew](http://bitcoinnew.org/),bitnewchain
+1001,0x800003e9,ae33e7c1c361ad45f5baaad6e3183a36,TT,TT,Thunder Token,[ThunderCore](https://thundercore.com/),thunder token
+1024,0x80000400,dde83e9ef1a98ee99f22073d289a699f,ONT,ONT,Ontology,[Ontology](https://ont.io),ontology
+1120,0x80000460,abd70a256115256d7e18e9cd8a7f6b66,RISE,RISE,Rise,[RISE](https://rise.vision),rise
+1122,0x80000462,7f630d618dcb027bbd89f5a46e953886,CMT,CMT,CyberMiles,[CyberMilesToken](https://www.cybermiles.io),cybermiles
+1397,0x80000575,f4564bce467c58d001a728593748510e,HYC,HYC,HYCON,[Hycon](https://hycon.io),hycon
+1620,0x80000654,63823e70e42434d02944c89408500a50,ATH,ATH,Atheios,[Atheios](https://atheios.com),atheios
+1688,0x80000698,717faa3dadd94d0747b5ba900797ea87,BCX,BCX,BitcoinX,[BitcoinX](https://bcx.org),bitcoinx
+1729,0x800006c1,a0f942d29c2edece10c1d8564b8add76,XTZ,XTZ,Tezos,[Tezos](https://tezos.com),tezos
+1776,0x800006f0,3ad7c84709eb435a0a28fd6ebff131c3,LBTC,LBTC,Lightning Bitcoin,[LiquidBTC](https://blockstream.com/liquid/),lightning bitcoin
+1815,0x80000717,86f18d080f2d95bed3cb290a028ceb77,ADA,ADA,Cardano,[Cardano](https://www.cardanohub.org/en/home/),cardano
+1919,0x8000077f,d805b8c7a319143c68c6a9d5ff4d38b9,VIPS,VIPS,Vipstar Coin,[VIPSTARCOIN](https://www.vipstarcoin.jp/),vipstar coin
+1984,0x800007c0,9c24eb5e8c2253e41067f77ea767ac35,TRTL,TRTL,TurtleCoin,[TurtleCoin](https://turtlecoin.lol/),turtlecoin
+1987,0x800007c3,8fcf85e501613fda5e95a5e522266821,EGEM,EGEM,EtherGem,[EtherGem](https://egem.io),ethergem
+1989,0x800007c5,b7e430580d3800f9a7ec20cf9c1cc11b,HODL,HODL,HOdlcoin,[HOdlcoin](https://hodlcoin.com/),hodlcoin
+1997,0x800007cd,614cb06699d32dd7dda56ad0a9e7b667,POLIS,POLIS,Polis,[Polis](https://polispay.org/),polis
+1998,0x800007ce,1b415d87bfc1119481631f91bbe1dd57,XMCC,XMCC,Monoeci,[Monoeci](https://monoeci.io/),monoeci
+1999,0x800007cf,b86673ff8ded3ebba4dcb81595863203,COLX,COLX,ColossusXT,[ColossusXT](https://colossusxt.io/),colossusxt
+2000,0x800007d0,c6ad95b2a9b5974e2919db93dfe63796,GIN,GIN,GINcoin,[GinCoin](https://gincoin.io/),gincoin
+2001,0x800007d1,a2405c91bd7d5f8b394be9912fe89b79,MNP,MNP,MNPCoin,[MNPCoin](https://mnpcoin.pro/),mnpcoin
+2049,0x80000801,09135d2729b954e810ebbe1335b79b29,TRUE,TRUE,TrueChain,[TrueChain](https://www.truechain.pro/),truechain
+2301,0x800008fd,0c8ed57bb6e643adce5b3291e96761b4,QTUM,QTUM,Qtum,[QTUM](https://qtum.org/en/),qtum
+2302,0x800008fe,868afaa24c65532170c20e84ac714deb,ETP,ETP,Metaverse ETP,[Metaverse](https://mvs.org/),metaverse etp
+2303,0x800008ff,f8beedcda75b78e9bf0ada5084020804,GXC,GXC,GXChain,[GXChain](https://www.gxb.io),gxchain
+2305,0x80000901,c72b9c6c6e78f1ed6a85da80574048f1,ELA,ELA,Elastos,[Elastos](https://www.elastos.org/),elastos
+3003,0x80000bbb,af27bf3803d8cdee0ccc67fa7fb78330,LUX,LUX,LUXCoin,[LUX](https://luxcore.io/),luxcoin
+3381,0x80000d35,692222e364e74c9c75f074ec2e0c4f32,DYN,DYN,Dynamic,[Dynamic](https://duality.solutions/dynamic/),dynamic
+3383,0x80000d37,4b51721e7bedd133ee2ac52d5b9c1b27,SEQ,SEQ,Sequence,[Sequence](https://duality.solutions/sequence/),sequence
+2718,0x80000a9e,a76ed32cf521a4dfe84711a9795800fd,NAS,NAS,Nebulas,[Nebulas](https://nebulas.io/),nebulas-token
+2941,0x80000b7d,17bd2bb7f96bd0957f2248a58ae53dc9,BND,BND,Blocknode,[Blocknode](https://blocknode.tech),blocknode
+3276,0x80000ccc,187e65bfcbc5e8ab97f92d051e9cda50,CCC,CCC,Concierge Coin,[CodeChain](https://codechain.io/),concierge coin
+4242,0x80001092,d14444a6f2185c5efda24958d375a251,AXE,AXE,AXE,[Axe](https://github.com/AXErunners/axe),axe
+6060,0x800017ac,dbbe4c2e683aeab5bbec740b6cbc50a7,GO,GO,GoChain,[GoChainGO](https://gochain.io/),gochain
+6688,0x80001a20,3ab59490f145de3704ef8308558b7311,SAFE,SAFE,SafeCoin,[SAFE](http://www.anwang.com/),safecoin
+8888,0x800022b8,10d5bcf770c8aeb2400b1342e7ba2af8,SBTC,SBTC,Super Bitcoin,[SuperBitcoin](https://www.superbtc.org),super bitcoin
+8964,0x80002304,2e5139d1f362e608232986e589a4ce85,NULS,NULS,NULS,[NULS](https://nuls.io),nuls
+9797,0x80002645,e16f62c0102b67695e74cdb38cc65ed9,NRG,NRG,Energi,[Energi](https://www.energi.world/),energi
+9999,0x8000270f,a4a09487377d148806c64273b9652174,GOD,GOD,Bitcoin God,[BitcoinGod](https://www.bitcoingod.org),bitcoin god
+19165,0x80004add,3ab59490f145de3704ef8308558b7311,SAFE,SAFE,SafeCoin,[Safecoin](https://www.safecoin.org),safecoin
+19167,0x80004adf,24fa1e2d230a3b74dde3046e359f7861,ZEL,ZEL,ZelCash,[ZelCash](https://www.zel.cash),zelcash
+22504,0x800057e8,398d30ba822f6f50e3af4ec39c01192d,PWR,PWR,PWR Coin,[PWRcoin](https://github.com/Plainkoin/PWRcoin),pwr coin
+31102,0x8000797e,f6515fc98046ff9c6c4af859f53328df,ESN,ESN,Ethersocial,[EtherSocialNetwork](https://ethersocial.network),ethersocial
+33878,0x80008456,23b3915e2b903abd5192bb5738a9e685,BTCS,BTCS,Bitcoin Scrypt,[BitcoinStake](http://www.btcscoin.com/),bitcoin scrypt
+88888,0x80015b38,56be0ed19e942d2f528c09a3848e522c,RYO,RYO,Ryo Currency,[c0ban](https://www.c0ban.co/),ryo currency
+99999,0x8001869f,daa47466a3c4efaf1621eea297326e43,WICC,WICC,WaykiChain,[Waykichain](http://www.waykichain.com),waykichain
+200625,0x80030fb1,db1d1b6c233dbc7c167ddbb1e26e685e,AKA,AKA,Akroma,[Akroma](https://akroma.io),akroma
+1313114,0x8014095a,10d7ef73e2268c172375e03f8f9faa4a,ETHO,ETHO,Ether-1,[Ether-1](https://www.ether1.org),ether-1
+5249353,0x80501949,f27451ef3e4d484fe30d201d96acb2c9,BCO,BCO,BridgeCoin,[BitcoinOre](http://bitcoinore.org/),bridgecoin
+5718350,0x8057414e,dac56e3433bd5b8a3647ec29dcfdb971,WAN,WAN,Wanchain,[Wanchain](https://wanchain.org/),wanchain
+5741564,0x80579bfc,9bdcb71e9b040e5a524e95f388592a9c,WAVES,WAVES,Waves,[Waves](https://wavesplatform.com/),waves
+7562605,0x8073656d,6d5551b44cc573cf95aeb41b1aab7d88,SEM,SEM,Semux,[Semux](https://semux.org),semux
+7567736,0x80737978,1671a845a465bba5ba8e8970255c88f5,ION,ION,ION,[ION](https://ionomy.com/),ion
+7825266,0x80776772,51e71554d1f6684ad0b6a790ac109929,WGR,WGR,Wagerr,[WGR](https://wagerr.com),wagerr
+7825267,0x80776773,9decf64a642aa31193df7c8c23f0701d,OBSR,OBSR,Observer,[OBServer](https://obsr.org/),observer
