@@ -6,7 +6,8 @@
   "scripts": {
     "verify": "node ./test/verifyTokens",
     "test": "npm run pre-test && node ./test/index.js",
-    "pre-test": "find . -name '.DS_Store' -type f -delete"
+    "pre-test": "find . -name '.DS_Store' -type f -delete",
+    "update-bep2": "node ./script/updateBEP2"
   },
   "repository": {
     "type": "git",
@@ -14,7 +15,9 @@
   },
   "keywords": [
     "ERC20",
-    "images"
+    "TRC-10",
+    "BEP-2",
+    "token images"
   ],
   "author": "Trust Wallet",
   "license": "MIT",
@@ -26,6 +29,8 @@
     "mongoose": "^5.4.10"
   },
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.19.0",
+    "bluebird": "^3.5.5",
+    "chalk": "^2.4.2"
   }
 }
