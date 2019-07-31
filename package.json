@@ -19,6 +19,9 @@
     "BEP-2",
     "token images"
   ],
+  "engines": {
+    "node": ">=7.0"
+  },
   "author": "Trust Wallet",
   "license": "MIT",
   "bugs": {
