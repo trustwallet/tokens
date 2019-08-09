@@ -1,7 +1,7 @@
 language: node_js
 
 node_js:
-  - "lts/carbon"
+  - "12.8.0"
 
 cache:
   directories:
